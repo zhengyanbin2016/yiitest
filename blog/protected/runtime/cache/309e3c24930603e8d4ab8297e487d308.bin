@@ -1,0 +1,66 @@
+a:2:{i:0;a:2:{i:0;s:3845:"<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>后盾网文章管理系统</title>
+
+<link href="/yiiweb/blog/assets/index/css/common.css" rel="stylesheet" />
+</head>	
+<body>
+	<div id="top">
+	</div>
+	<div id="header">
+		<div class='logo'>
+			<a href=""><img src="/yiiweb/blog/assets/index/images/logo.jpg" alt=""></a>
+		</div>
+		<div class='navigation'>
+			<a href="/yiiweb/blog/./index.html">首页</a>
+						 				<a href="/yiiweb/blog/c/15.html">情感</a>
+							<a href="/yiiweb/blog/c/16.html">生活</a>
+							<a href="/yiiweb/blog/c/17.html">趣事</a>
+							<a href="/yiiweb/blog/c/18.html">奇闻</a>
+					</div>
+	</div>
+
+	
+	<link href="/yiiweb/blog/assets/index/css/details.css" rel="stylesheet" />
+	<div id="main">
+		<div class='details'>
+			<h1>亮瞎眼！科学家发现一个巨大矮星系环绕银河</h1>
+			<div class='info'>
+				<div class='base'>
+					<em>发表于 12:49:39</em>, 分类：<strong>奇闻</strong>
+				</div>
+			</div>
+			<div class='content'>
+				<p>&nbsp;&nbsp;&nbsp; 据英国新科学家杂志报道，目前，天文学家最新发现一个矮星系环绕银河系，该矮星系延伸范围超越了所有银河系“卫星系”，它可能是落入银河系引力束缚的一个小型星系群。<br/><br/>&nbsp;&nbsp;&nbsp; 科学家模拟显示，像银河系这样的巨大星系吞并较小星系时会变得更大，同时，暗示整个星系群可能落入一个巨大星系，最好的实例就是我们的宇宙邻居大小麦哲伦星云，它们是银河系最明亮的两个卫星系，它们可能彼此环绕。<br/><br/>&nbsp;&nbsp;&nbsp; 大约40多个星系环绕银河系运行，环绕轨道直径最大的是人马座矮星系，它是1994年发现的，它如此庞大是由于银河系引力将它撕裂，其次轨道直径最大的就是麦哲伦星云。目前，英国剑桥大学加布里埃尔-托雷亚尔瓦(Gabriel Torrealba)和同事发现一个新的矮星系，距离地球大约38万光年，位于陨坑星座，他是银河系第四大卫星系。<br/><br/>&nbsp;&nbsp;&nbsp; 最新发现的矮星系被命名为“陨坑2号矮星系”，人类肉眼很难观测，虽然该星系内个别恒星可以观测到。多数星系都没有明确的边缘，因此天文学家有时认为一个星系具有“暗光直径”，陨坑2号矮星系的直径为7000光年，如果真实观测到这个星系，它会更加庞大。<br/><br/>&nbsp;&nbsp;&nbsp; 美国加州卡内基天文台天文学家乔什-西蒙(Josh Simon)称，这个星系是显而易见的，因此它比银河系周围环绕的所有星系都明亮，它释放的光线是太阳的16万倍。这个星系长期以来很难被探测是因为它的恒星是从另一个星系中延伸的，具有幽灵般的外形。</p>			</div>
+		</div>
+
+			
+	<div class='sidebar'>
+			<div class='item'>
+				<h2>文章标题</h2>
+				<ul class='flink'>
+																		<li><a href="/yiiweb/blog/a/42.html">亮瞎眼！科学家发现一个巨大矮星系环绕银河</a></li>
+													<li><a href="/yiiweb/blog/a/41.html">致敬科比布恩莱特</a></li>
+													<li><a href="/yiiweb/blog/a/28.html">蹲下来抱抱自己</a></li>
+													<li><a href="/yiiweb/blog/a/38.html">惜别，亲爱的友情</a></li>
+													<li><a href="/yiiweb/blog/a/37.html">郭敬明语录</a></li>
+															</ul>
+			</div>
+			
+		</div>
+	</div>
+	<div id="footer">
+		<div class='bgbar'></div>
+		<div class='bottom'>
+			<div class='pos'>
+				<div class='copyright'>
+					© Copyright 2011-2013 www.houdunwang 后盾网
+				</div>
+			</div>	
+		</div>
+	</div>
+</body>
+</html>
+";i:1;N;}i:1;N;}
